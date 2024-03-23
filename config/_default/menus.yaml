@@ -1,5 +1,5 @@
 main:
-  - name: Home
+  - name: Inicio
     url: ""
     weight: 1
   - name: Categories
@@ -11,7 +11,7 @@ main:
   - name: About
     url: "#about"
     weight: 4
-  - name: Products
+  - name: Productos
     url: "#product"
     weight: 5
   - name: Testimonials

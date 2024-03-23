@@ -6,7 +6,7 @@ enableEmoji: true
 enableGitInfo: false
 enableRobotsTXT: true
 paginate: 6
-title: Helmani
+title: Codice Cacao
 rssLimit: 10
 outputs:
   home:
