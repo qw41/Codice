@@ -6,9 +6,9 @@ description: >-
 images:
   - favicon.ico
 ogLocale: en_US
-titleHome: Helmani Food
-twitterSite: '@gethyas'
-twitterCreator: '@henkverlinde'
+titleHome: Codice Cacao
+twitterSite: #'@gethyas'
+twitterCreator: #'@henkverlinde'
 schemaType: Organization
 schemaName: Hyas
 schemaAuthor: Henk Verlinde
@@ -70,10 +70,10 @@ fabformURL: 'https://fabform.io/f/JpTXRUa'
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
-  address: '20 Piroozi, Sattar Khan, Tehran.'
-  email: info@helmani.com
-  openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-  phone: (+98) 911 86 2774
+  address: 'Cuidad de Mexico'
+  email: CodiceCacao@gmail.com
+  openingHours: #Open from 10am to 6pm (close at 5pm Sundays)
+  #phone: (+98) 911 86 2774
 map:
   APIkey: YOUR GOOGLE MAP API
   latitude: '23.7783741'

@@ -5,7 +5,7 @@ main:
   - name: Categories
     url: "#service"
     weight: 2
-  - name: Certificates
+  - name: Ingredientes
     url: "#resume"
     weight: 3
   - name: About
@@ -14,22 +14,22 @@ main:
   - name: Productos
     url: "#product"
     weight: 5
-  - name: Testimonials
-    url: "#testimonial"
-    weight: 6
-  - name: Blog
-    url: "#blog"
-    weight: 7
+  #- name: Testimonials
+    #url: "#testimonial"
+    #weight: 6
+  #- name: Blog
+    #url: "#blog"
+    #weight: 7
 sitemap:
-  - name: Home
+  - name: Inicio
     url: ""
     weight: 1
-  - name: Contact Us
+  - name: Contacto
     url: "contact"
     weight: 2
-  - name: Products
+  - name: Productos
     url: "product"
     weight: 3
-  - name: Blog
-    url: "blog"
+  - name: Tienda
+    url: "https://amazon.com.mx"
     weight: 4
