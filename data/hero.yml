@@ -1,9 +1,9 @@
 enable: true
-topTitle:
+topTitle: Hecho en Mexico
 content: >
   # Somos Codice Cacao
 
-  Deliciosos Chocolates y Cafe Hecho en Mexico!
+  ¡Deliciosos Chocolates y Cafe!
 buttonName: Mas Productos!
 buttonURL: 'https://amazon.com.mx'
 image: images/hero/nuts.jpg
