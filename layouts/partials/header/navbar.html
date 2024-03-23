@@ -10,11 +10,6 @@
       {{ $img := $asset.Fit "600x200 webp" }}
       <img style="width: 150px; height: 50px; object-fit: contain" src="{{ $img.RelPermalink }}" alt="site-logo" />
     </a>
-    <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbarCollapse">
-      <span class="navbar-toggler-icon"></span>
-      <span class="navbar-toggler-icon"></span>
-      <span class="navbar-toggler-icon"></span>
-    </button>
 
     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
       <ul class="nav navbar-nav main-navigation my-0 mx-auto">
@@ -30,7 +25,7 @@
         {{ end }}
       </ul>
       <div class="navbar-nav">
-        <a href="{{ "contact" | absURL }}" class="btn btn-primary btn-zoom hire_button">Contact Us</a>
+        <a href="{{ "contact" | absURL }}" class="btn btn-primary btn-zoom hire_button">Compralo</a>
       </div>
     </div>
   </div>
